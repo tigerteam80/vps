@@ -1,2 +1,0 @@
-# vps
-free vps
